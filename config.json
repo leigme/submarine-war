@@ -1,0 +1,28 @@
+{
+  "title": "Submarine War",
+  "titleFontSize": 4,
+  "fontSize": 3,
+  "smallFontSize": 5,
+  "screenWidth": 640,
+  "screenHeight": 480,
+  "shipSpeedFactor": 3,
+  "bgColor": {
+    "r": 230,
+    "g": 230,
+    "b": 230,
+    "a": 255
+  },
+  "bulletWidth": 3,
+  "bulletHeight": 15,
+  "bulletSpeedFactor": 2,
+  "bulletInterval": 50,
+  "maxBulletNum": 10,
+  "bulletColor": {
+    "r": 80,
+    "g": 80,
+    "b": 80,
+    "a": 255
+  },
+  "alienSpeedFactor": 2,
+  "alienNum": 3
+}
